@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Allen Kong",
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "backend", "tutorial" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
